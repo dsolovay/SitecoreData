@@ -10,6 +10,7 @@
 *.suo
 *.user
 *.sln.docstates
+.vs/*
 
 # Build results
 **/[Dd]ebug/
@@ -35,7 +36,7 @@
 *.dotCover
 
 # SitecoreData
-lib/Sitecore/*.*
+lib/*
 deploycommand.xml
 
 # NuGet package restore is enabled

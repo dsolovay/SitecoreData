@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using MongoDB.Bson.IO;
 using Sitecore.Workflows;
 using MongoDB.Driver;
 using Sitecore;
 using MongoDB.Driver.Builders;
+using Sitecore.Collections;
+using Sitecore.Data.Items;
 
 namespace SitecoreData.DataProviders.MongoDB
 {
@@ -45,7 +48,12 @@ namespace SitecoreData.DataProviders.MongoDB
             WorkflowHistories.Save(history);
         }
 
-        public override void ClearHistory(Sitecore.Data.Items.Item item)
+     public override void AddHistory(Item item, string oldState, string newState, StringDictionary commentFields)
+     {
+       AddHistory(item, oldState, newState, "TODO");
+     }
+
+     public override void ClearHistory(Sitecore.Data.Items.Item item)
         {
             var query = Query.And(
                     Query.EQ("Id", item.ID.Guid),
