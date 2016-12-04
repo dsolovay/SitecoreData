@@ -38,14 +38,14 @@ namespace SitecoreData.DataProviders.MongoDB.Tests
 		public void CanTransferData()
 		{
 			TransferUtil.TransferPath("/sitecore/layout", _sqlServerSourceDb, _mongoTargetDb, null);
-			Assert.That(_db.GetCollection("items").Count(), Is.EqualTo(60));
+			Assert.That(_db.GetCollection("items").Count(), Is.GreaterThanOrEqualTo(60));
 		}
 
 		[Test]
 		public void CanTransferDeepHierarchy()
 		{
 			TransferUtil.TransferPath("/sitecore/layout/renderings", _sqlServerSourceDb, _mongoTargetDb, null);
-			Assert.That(_db.GetCollection("items").Count(), Is.EqualTo(13));
+			Assert.That(_db.GetCollection("items").Count(), Is.GreaterThanOrEqualTo(13));
 		}
 
 		[Test]

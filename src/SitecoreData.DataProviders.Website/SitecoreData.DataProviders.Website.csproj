@@ -88,6 +88,11 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App_Config\Include\SitecoreData.Raven.config.exclude">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\SitecoreData.DataProviders.MongoDB\SitecoreData.DataProviders.MongoDB.csproj">
       <Project>{2698B185-AF47-4C5A-AFF7-B118318C0DC7}</Project>
       <Name>SitecoreData.DataProviders.MongoDB</Name>

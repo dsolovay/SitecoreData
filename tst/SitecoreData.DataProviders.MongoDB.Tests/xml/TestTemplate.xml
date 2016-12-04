@@ -1,1 +1,801 @@
-<item name="User Defined Item" key="user defined item" id="{A9023499-C49E-4898-8C06-9ACB2C2000A3}" tid="{AB86861A-6030-46C5-B394-E8F99E8B87DB}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template" parentid="{B29EE504-861C-492F-95A3-0D890B6FCA09}"><version language="en" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>e972d954-2607-4b0c-84b4-c430cd177067</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20080328T085900</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20131124T172915:635209109558810225</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content /></field><field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon"><content>Applications/16x16/document.png</content></field><field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list"><content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content></field><field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference"><content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo"><content /></field></fields></version><version language="ja-JP" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>cdcc0099-5cd3-44b1-b264-6dcb2c87c4eb</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T134840:635024081206936164</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T134840:635024081206936164</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>サンプル アイテム</content></field><field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon"><content>Applications/16x16/document.png</content></field><field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list"><content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content></field><field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference"><content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo"><content /></field></fields></version><version language="de-DE" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>f8a9e8ea-278d-48ae-a4dd-cad97fc5e385</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T132025:635024064251691148</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T132025:635024064251691148</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Beispiel Item</content></field><field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon"><content>Applications/16x16/document.png</content></field><field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list"><content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content></field><field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference"><content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo"><content /></field></fields></version><version language="da" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>0d2819c6-20c7-4017-90a9-ff3de56cc1e7</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T125748:635024050686137950</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T125748:635024050686137950</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Eksempel på element</content></field><field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon"><content>Applications/16x16/document.png</content></field><field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list"><content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content></field><field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference"><content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo"><content /></field></fields></version><item name="Data" key="data" id="{BA686A8D-C377-484E-99B2-41CD91909823}" tid="{E269FBB5-3750-427A-9149-7AA950B49301}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template section" parentid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}"><version language="en" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>adea22e9-a521-4c5d-a885-9dfa8fa821f5</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20080307T201110:633405174700676461</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20090528T131805:633791134859245578</content></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field></fields></version><version language="ja-JP" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>e5c5ab72-ab8f-4a6a-8f17-1589b1a4744d</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T133458:635024072984537353</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T133458:635024072984537353</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>データ</content></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field></fields></version><version language="de-DE" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>4bde3897-1268-44c4-bed3-a7d3b753bf76</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T131040:635024058406091985</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T131040:635024058406091985</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Daten</content></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field></fields></version><version language="da" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>f1b020ea-a71d-4c48-835a-c6c9f5f2f33a</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T124635:635024043955747859</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T124635:635024043955747859</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Data</content></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field></fields></version><item name="Title" key="title" id="{907C393E-0A81-4CDB-83BD-542B8BE9B384}" tid="{455A3E98-A627-4B40-8035-E683A0331AC7}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template field" parentid="{BA686A8D-C377-484E-99B2-41CD91909823}"><version language="en" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>3e52f359-d220-4869-accb-2e321ab0163f</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20080307T201110:633405174706357029</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20080307T201110:633405174706357029</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Please enter title of the item here.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>The title is displayed at the top of the document.</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content /></field><field tfid="{B12E4906-B96B-495E-B343-CD2E92DC6347}" key="validationtext" type="memo"><content /></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>text</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="ja-JP" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>4ba3ca57-17d3-4fe6-8876-1bb4656f3e0e</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T135631:635024085910238095</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T135634:635024085945385795</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>ここにアイテムのタイトルを入力してください</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>タイトルはドキュメントの上部に表示されます</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>タイトル</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>タイトル</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>text</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="de-DE" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>b6ffcb5d-5264-4e1f-a494-3f1532d2f9b5</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T132501:635024067012951081</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T132501:635024067014513311</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Bitte den Titel des Items hier eingeben.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>Der Titel wird am Anfang des Dokuments angezeigt.</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Titel</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>Titel</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>text</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="da" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>28a85f03-0015-4584-a5be-2a865f4152e0</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T130225:635024053454090858</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T130225:635024053456277938</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Indtast titel på elementet her.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>Titlen vises i toppen af dokumentet.</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Titel</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>Titel</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>100</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>text</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version></item><item name="Text" key="text" id="{26DAAF26-6056-440C-A8B1-93618E2A4A9D}" tid="{455A3E98-A627-4B40-8035-E683A0331AC7}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="200" template="template field" parentid="{BA686A8D-C377-484E-99B2-41CD91909823}"><version language="en" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>7df98365-6afe-435d-bb98-0c78990fcff1</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20070410T114515</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20090528T131806:633791134860465648</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Please enter text of the item here.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>The text is the main content of the document.</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content /></field><field tfid="{B12E4906-B96B-495E-B343-CD2E92DC6347}" key="validationtext" type="memo"><content /></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content /></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>200</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>Rich Text</content></field><field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source"><content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="ja-JP" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>bdc10438-dd57-41b7-bd59-8edc970a0b75</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T135338:635024084187519161</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T135341:635024084213920003</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>ここにアイテムのテキストを入力してください</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>テキストはドキュメントのメイン コンテンツです</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>テキスト</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>テキスト</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content /></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>200</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>Rich Text</content></field><field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source"><content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="de-DE" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>288b1ad4-db17-4e17-8533-be2611e6fd3a</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T132326:635024066068569494</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T132327:635024066070756560</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Bitte den Text des Items hier eingeben.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>Der Text enthält den Hauptinhalt des Dokuments.</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Text</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>Text</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content /></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>200</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>Rich Text</content></field><field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source"><content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version><version language="da" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>b50fa992-6da9-46d6-aab9-b9a2bfa65806</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20130424T130118:635024052782354810</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20130424T130118:635024052783604562</content></field><field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text"><content>Indtast teksten på elementet her.</content></field><field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo"><content>Teksten er hovedindholdet i dokumentet.</content></field><field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text"><content>Tekst</content></field><field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text"><content>Tekst</content></field><field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text"><content /></field><field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text"><content /></field><field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list"><content /></field><field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list"><content /></field><field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link"><content /></field><field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security"><content /></field><field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text"><content>200</content></field><field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist"><content>Rich Text</content></field><field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source"><content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content></field><field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox"><content /></field></fields></version></item></item><item name="__Standard Values" key="__standard values" id="{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}" tid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="user defined item" parentid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}"><version language="en" version="1"><fields><field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text"><content>sitecore\Admin</content></field><field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text"><content>sitecore\admin</content></field><field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text"><content>e092e0f2-524b-487b-b6c2-dcd218b375b8</content></field><field tfid="{907C393E-0A81-4CDB-83BD-542B8BE9B384}" key="title" type="text"><content>$name</content></field><field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime"><content>20061024T104300</content></field><field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text"><content>sitecore\admin</content></field><field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime"><content>20131124T172909:635209109494026519</content></field><field tfid="{1172F251-DAD4-4EFB-A329-0C63500E4F1E}" key="__masters" type="TreelistEx"><content>{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}|{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}</content></field><field tfid="{CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}" key="__default workflow" type="reference"><content>{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}</content></field><field tfid="{F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}" key="__renderings" type="layout"><content>&lt;r xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}"&gt;&lt;r ds="" id="{885B8314-7D8C-4CBB-8000-01421EA8F406}" par="" ph="main" uid="{43222D12-08C9-453B-AE96-D406EBB95126}" /&gt;&lt;r ds="" id="{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}" par="" ph="/main/centercolumn" uid="{CF044AD9-0332-407A-ABDE-587214A2C808}" /&gt;&lt;r ds="" id="{493B3A83-0FA7-4484-8FC9-4680991CF743}" par="" ph="/main/centercolumn/content" uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}" /&gt;&lt;/d&gt;&lt;d id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}" l="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}"&gt;&lt;r ds="" id="{493B3A83-0FA7-4484-8FC9-4680991CF743}" par="" ph="content" uid="{A08C9132-DBD1-474F-A2CA-6CA26A4AA650}" /&gt;&lt;/d&gt;&lt;/r&gt;</content></field></fields></version></item></item>
+<item name="User Defined Item" key="user defined item" id="{A9023499-C49E-4898-8C06-9ACB2C2000A3}" tid="{AB86861A-6030-46C5-B394-E8F99E8B87DB}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template" parentid="{B29EE504-861C-492F-95A3-0D890B6FCA09}">
+  <version language="en" version="1">
+    <fields>
+      <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+        <content>e972d954-2607-4b0c-84b4-c430cd177067</content>
+      </field>
+      <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+        <content>20080328T085900</content>
+      </field>
+      <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+        <content>20131124T172915:635209109558810225</content>
+      </field>
+      <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+        <content />
+      </field>
+      <field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon">
+        <content>Applications/16x16/document.png</content>
+      </field>
+      <field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list">
+        <content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content>
+      </field>
+      <field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference">
+        <content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content>
+      </field>
+      <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+        <content />
+      </field>
+      <field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo">
+        <content />
+      </field>
+    </fields>
+  </version>
+  <version language="ja-JP" version="1">
+    <fields>
+      <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+        <content>cdcc0099-5cd3-44b1-b264-6dcb2c87c4eb</content>
+      </field>
+      <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+        <content>20130424T134840:635024081206936164</content>
+      </field>
+      <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+        <content>20130424T134840:635024081206936164</content>
+      </field>
+      <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+        <content>サンプル アイテム</content>
+      </field>
+      <field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon">
+        <content>Applications/16x16/document.png</content>
+      </field>
+      <field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list">
+        <content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content>
+      </field>
+      <field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference">
+        <content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content>
+      </field>
+      <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+        <content />
+      </field>
+      <field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo">
+        <content />
+      </field>
+    </fields>
+  </version>
+  <version language="de-DE" version="1">
+    <fields>
+      <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+        <content>f8a9e8ea-278d-48ae-a4dd-cad97fc5e385</content>
+      </field>
+      <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+        <content>20130424T132025:635024064251691148</content>
+      </field>
+      <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+        <content>20130424T132025:635024064251691148</content>
+      </field>
+      <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+        <content>Beispiel Item</content>
+      </field>
+      <field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon">
+        <content>Applications/16x16/document.png</content>
+      </field>
+      <field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list">
+        <content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content>
+      </field>
+      <field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference">
+        <content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content>
+      </field>
+      <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+        <content />
+      </field>
+      <field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo">
+        <content />
+      </field>
+    </fields>
+  </version>
+  <version language="da" version="1">
+    <fields>
+      <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+        <content>0d2819c6-20c7-4017-90a9-ff3de56cc1e7</content>
+      </field>
+      <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+        <content>20130424T125748:635024050686137950</content>
+      </field>
+      <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+        <content>sitecore\admin</content>
+      </field>
+      <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+        <content>20130424T125748:635024050686137950</content>
+      </field>
+      <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+        <content>Eksempel på element</content>
+      </field>
+      <field tfid="{06D5295C-ED2F-4A54-9BF2-26228D113318}" key="__icon" type="Icon">
+        <content>Applications/16x16/document.png</content>
+      </field>
+      <field tfid="{12C33F3F-86C5-43A5-AEB4-5598CEC45116}" key="__base template" type="tree list">
+        <content>{1930BBEB-7805-471A-A3BE-4858AC7CF696}</content>
+      </field>
+      <field tfid="{F7D48A55-2158-4F02-9356-756654404F73}" key="__standard values" type="reference">
+        <content>{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}</content>
+      </field>
+      <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+        <content />
+      </field>
+      <field tfid="{B03569B1-1534-43F2-8C83-BD064B7D782C}" key="__renderers" type="memo">
+        <content />
+      </field>
+    </fields>
+  </version>
+  <item name="Data" key="data" id="{BA686A8D-C377-484E-99B2-41CD91909823}" tid="{E269FBB5-3750-427A-9149-7AA950B49301}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template section" parentid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}">
+    <version language="en" version="1">
+      <fields>
+        <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+          <content>adea22e9-a521-4c5d-a885-9dfa8fa821f5</content>
+        </field>
+        <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+          <content>20080307T201110:633405174700676461</content>
+        </field>
+        <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+          <content>20090528T131805:633791134859245578</content>
+        </field>
+        <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+          <content>100</content>
+        </field>
+      </fields>
+    </version>
+    <version language="ja-JP" version="1">
+      <fields>
+        <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+          <content>e5c5ab72-ab8f-4a6a-8f17-1589b1a4744d</content>
+        </field>
+        <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+          <content>20130424T133458:635024072984537353</content>
+        </field>
+        <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+          <content>20130424T133458:635024072984537353</content>
+        </field>
+        <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+          <content>データ</content>
+        </field>
+        <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+          <content>100</content>
+        </field>
+      </fields>
+    </version>
+    <version language="de-DE" version="1">
+      <fields>
+        <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+          <content>4bde3897-1268-44c4-bed3-a7d3b753bf76</content>
+        </field>
+        <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+          <content>20130424T131040:635024058406091985</content>
+        </field>
+        <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+          <content>20130424T131040:635024058406091985</content>
+        </field>
+        <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+          <content>Daten</content>
+        </field>
+        <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+          <content>100</content>
+        </field>
+      </fields>
+    </version>
+    <version language="da" version="1">
+      <fields>
+        <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+          <content>f1b020ea-a71d-4c48-835a-c6c9f5f2f33a</content>
+        </field>
+        <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+          <content>20130424T124635:635024043955747859</content>
+        </field>
+        <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+          <content>20130424T124635:635024043955747859</content>
+        </field>
+        <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+          <content>Data</content>
+        </field>
+        <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+          <content>100</content>
+        </field>
+      </fields>
+    </version>
+    <item name="Title" key="title" id="{907C393E-0A81-4CDB-83BD-542B8BE9B384}" tid="{455A3E98-A627-4B40-8035-E683A0331AC7}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="template field" parentid="{BA686A8D-C377-484E-99B2-41CD91909823}">
+      <version language="en" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>3e52f359-d220-4869-accb-2e321ab0163f</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20080307T201110:633405174706357029</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20080307T201110:633405174706357029</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Please enter title of the item here.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>The title is displayed at the top of the document.</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content />
+          </field>
+          <field tfid="{B12E4906-B96B-495E-B343-CD2E92DC6347}" key="validationtext" type="memo">
+            <content />
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content>
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>100</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>text</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="ja-JP" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>4ba3ca57-17d3-4fe6-8876-1bb4656f3e0e</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T135631:635024085910238095</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T135634:635024085945385795</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>ここにアイテムのタイトルを入力してください</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>タイトルはドキュメントの上部に表示されます</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>タイトル</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>タイトル</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content>
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>100</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>text</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="de-DE" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>b6ffcb5d-5264-4e1f-a494-3f1532d2f9b5</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T132501:635024067012951081</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T132501:635024067014513311</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Bitte den Titel des Items hier eingeben.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>Der Titel wird am Anfang des Dokuments angezeigt.</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>Titel</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>Titel</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content>
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>100</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>text</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="da" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>28a85f03-0015-4584-a5be-2a865f4152e0</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T130225:635024053454090858</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T130225:635024053456277938</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Indtast titel på elementet her.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>Titlen vises i toppen af dokumentet.</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>Titel</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>Titel</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content>{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}</content>
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>100</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>text</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+    </item>
+    <item name="Text" key="text" id="{26DAAF26-6056-440C-A8B1-93618E2A4A9D}" tid="{455A3E98-A627-4B40-8035-E683A0331AC7}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="200" template="template field" parentid="{BA686A8D-C377-484E-99B2-41CD91909823}">
+      <version language="en" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>7df98365-6afe-435d-bb98-0c78990fcff1</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20070410T114515</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20090528T131806:633791134860465648</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Please enter text of the item here.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>The text is the main content of the document.</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content />
+          </field>
+          <field tfid="{B12E4906-B96B-495E-B343-CD2E92DC6347}" key="validationtext" type="memo">
+            <content />
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content />
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>200</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>Rich Text</content>
+          </field>
+          <field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source">
+            <content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="ja-JP" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>bdc10438-dd57-41b7-bd59-8edc970a0b75</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T135338:635024084187519161</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T135341:635024084213920003</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>ここにアイテムのテキストを入力してください</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>テキストはドキュメントのメイン コンテンツです</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>テキスト</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>テキスト</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content />
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>200</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>Rich Text</content>
+          </field>
+          <field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source">
+            <content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="de-DE" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>288b1ad4-db17-4e17-8533-be2611e6fd3a</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T132326:635024066068569494</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T132327:635024066070756560</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Bitte den Text des Items hier eingeben.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>Der Text enthält den Hauptinhalt des Dokuments.</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>Text</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>Text</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content />
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>200</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>Rich Text</content>
+          </field>
+          <field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source">
+            <content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+      <version language="da" version="1">
+        <fields>
+          <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+            <content>b50fa992-6da9-46d6-aab9-b9a2bfa65806</content>
+          </field>
+          <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+            <content>20130424T130118:635024052782354810</content>
+          </field>
+          <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+            <content>sitecore\admin</content>
+          </field>
+          <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+            <content>20130424T130118:635024052783604562</content>
+          </field>
+          <field tfid="{9541E67D-CE8C-4225-803D-33F7F29F09EF}" key="__short description" type="text">
+            <content>Indtast teksten på elementet her.</content>
+          </field>
+          <field tfid="{577F1689-7DE4-4AD2-A15F-7FDC1759285F}" key="__long description" type="memo">
+            <content>Teksten er hovedindholdet i dokumentet.</content>
+          </field>
+          <field tfid="{B5E02AD9-D56F-4C41-A065-A133DB87BDEB}" key="__display name" type="text">
+            <content>Tekst</content>
+          </field>
+          <field tfid="{19A69332-A23E-4E70-8D16-B2640CB24CC8}" key="title" type="text">
+            <content>Tekst</content>
+          </field>
+          <field tfid="{A791F095-2521-4B4D-BEF9-21DDA221F608}" key="__style" type="text">
+            <content />
+          </field>
+          <field tfid="{074F44CA-359A-4C13-B3AA-4A6BE2A675B1}" key="validation" type="text">
+            <content />
+          </field>
+          <field tfid="{21828437-EA4B-40A1-8C61-4CE60EA41DB6}" key="validate button" type="tree list">
+            <content />
+          </field>
+          <field tfid="{9C903E29-650D-4AF2-B9BD-526D5C14A1A5}" key="validator bar" type="tree list">
+            <content />
+          </field>
+          <field tfid="{56776EDF-261C-4ABC-9FE7-70C618795239}" key="__help link" type="link">
+            <content />
+          </field>
+          <field tfid="{DEC8D2D5-E3CF-48B6-A653-8E69E2716641}" key="__security" type="security">
+            <content />
+          </field>
+          <field tfid="{BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}" key="__sortorder" type="text">
+            <content>200</content>
+          </field>
+          <field tfid="{AB162CC0-DC80-4ABF-8871-998EE5D7BA32}" key="type" type="Grouped Droplist">
+            <content>Rich Text</content>
+          </field>
+          <field tfid="{1EB8AE32-E190-44A6-968D-ED904C794EBF}" key="source" type="Template Field Source">
+            <content>/sitecore/system/Settings/Html Editor Profiles/Rich Text Default</content>
+          </field>
+          <field tfid="{39847666-389D-409B-95BD-F2016F11EED5}" key="unversioned" type="Checkbox">
+            <content />
+          </field>
+        </fields>
+      </version>
+    </item>
+  </item>
+  <item name="__Standard Values" key="__standard values" id="{8CCEE4AC-40E8-4B15-AFD9-BD3EC7107697}" tid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}" mid="{00000000-0000-0000-0000-000000000000}" sortorder="100" template="user defined item" parentid="{A9023499-C49E-4898-8C06-9ACB2C2000A3}">
+    <version language="en" version="1">
+      <fields>
+        <field tfid="{5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}" key="__created by" type="text">
+          <content>sitecore\Admin</content>
+        </field>
+        <field tfid="{BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}" key="__updated by" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{8CDC337E-A112-42FB-BBB4-4143751E123F}" key="__revision" type="text">
+          <content>e092e0f2-524b-487b-b6c2-dcd218b375b8</content>
+        </field>
+        <field tfid="{907C393E-0A81-4CDB-83BD-542B8BE9B384}" key="title" type="text">
+          <content>$name</content>
+        </field>
+        <field tfid="{25BED78C-4957-4165-998A-CA1B52F67497}" key="__created" type="datetime">
+          <content>20061024T104300</content>
+        </field>
+        <field tfid="{52807595-0F8F-4B20-8D2A-CB71D28C6103}" key="__owner" type="text">
+          <content>sitecore\admin</content>
+        </field>
+        <field tfid="{D9CF14B1-FA16-4BA6-9288-E8A174D4D522}" key="__updated" type="datetime">
+          <content>20131124T172909:635209109494026519</content>
+        </field>
+        <field tfid="{1172F251-DAD4-4EFB-A329-0C63500E4F1E}" key="__masters" type="TreelistEx">
+          <content>{76036F5E-CBCE-46D1-AF0A-4143F9B557AA}|{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}</content>
+        </field>
+        <field tfid="{CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}" key="__default workflow" type="reference">
+          <content>{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}</content>
+        </field>
+        <field tfid="{F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}" key="__renderings" type="layout">
+          <content>&lt;r xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;&lt;d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}"&gt;&lt;r ds="" id="{885B8314-7D8C-4CBB-8000-01421EA8F406}" par="" ph="main" uid="{43222D12-08C9-453B-AE96-D406EBB95126}" /&gt;&lt;r ds="" id="{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}" par="" ph="/main/centercolumn" uid="{CF044AD9-0332-407A-ABDE-587214A2C808}" /&gt;&lt;r ds="" id="{493B3A83-0FA7-4484-8FC9-4680991CF743}" par="" ph="/main/centercolumn/content" uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}" /&gt;&lt;/d&gt;&lt;d id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}" l="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}"&gt;&lt;r ds="" id="{493B3A83-0FA7-4484-8FC9-4680991CF743}" par="" ph="content" uid="{A08C9132-DBD1-474F-A2CA-6CA26A4AA650}" /&gt;&lt;/d&gt;&lt;/r&gt;</content>
+        </field>
+      </fields>
+    </version>
+  </item>
+</item>
