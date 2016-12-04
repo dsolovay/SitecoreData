@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -29,6 +29,7 @@
     </FileUpgradeFlags>
     <OldToolsVersion>4.0</OldToolsVersion>
     <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -41,6 +42,7 @@
     <ExcludeApp_Data>true</ExcludeApp_Data>
     <PublishDatabases>false</PublishDatabases>
     <PackageAsSingleFile>true</PackageAsSingleFile>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -49,6 +51,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug with Publish|AnyCPU'">
     <DebugSymbols>true</DebugSymbols>
@@ -63,17 +66,22 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
     <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Sitecore.Kernel, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\depends\Sitecore.Kernel.dll</HintPath>
+    <Reference Include="Sitecore.Kernel">
+      <HintPath>..\..\lib\Sitecore\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web" />
     <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -91,29 +99,34 @@
     <None Include="App_Config\Include\SitecoreData.Raven.config.exclude">
       <SubType>Designer</SubType>
     </None>
+    <Content Include="web.config" />
+    <None Include="web.Debug with Publish.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Debug.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
+    <None Include="web.Release.config">
+      <DependentUpon>web.config</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SitecoreData.DataProviders.MongoDB\SitecoreData.DataProviders.MongoDB.csproj">
-      <Project>{2698B185-AF47-4C5A-AFF7-B118318C0DC7}</Project>
+      <Project>{2698b185-af47-4c5a-aff7-b118318c0dc7}</Project>
       <Name>SitecoreData.DataProviders.MongoDB</Name>
     </ProjectReference>
     <ProjectReference Include="..\SitecoreData.DataProviders.RavenDB\SitecoreData.DataProviders.RavenDB.csproj">
-      <Project>{6876320E-C307-4D78-85C3-5DC5A6ABBA20}</Project>
+      <Project>{6876320e-c307-4d78-85c3-5dc5a6abba20}</Project>
       <Name>SitecoreData.DataProviders.RavenDB</Name>
     </ProjectReference>
     <ProjectReference Include="..\SitecoreData.DataProviders.Serialization\SitecoreData.DataProviders.Serialization.csproj">
-      <Project>{510284E6-FF2D-4269-A70A-63738DEEE994}</Project>
+      <Project>{510284e6-ff2d-4269-a70a-63738deee994}</Project>
       <Name>SitecoreData.DataProviders.Serialization</Name>
     </ProjectReference>
     <ProjectReference Include="..\SitecoreData.DataProviders\SitecoreData.DataProviders.csproj">
-      <Project>{15F52B3B-2989-41F6-B6CB-4A04693585FA}</Project>
+      <Project>{15f52b3b-2989-41f6-b6cb-4a04693585fa}</Project>
       <Name>SitecoreData.DataProviders</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App_Config\Include\SitecoreData.Raven.config.exclude">
-      <SubType>Designer</SubType>
-    </None>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
